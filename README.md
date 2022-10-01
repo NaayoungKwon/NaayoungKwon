@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently working as SSD product engineer
 
 ## Skills
 <div>
