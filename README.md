@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as SSD product engineer
+🔭 I’m currently working as SSD product engineer
 
 ## Skills
 <div>
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+## I just started 😉
 ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaayoungKwon&show_icons=true&theme=radical)
