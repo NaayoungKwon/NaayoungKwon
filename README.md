@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 -->
 
 ## I just started 😉
-![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaayoungKwon&show_icons=true&theme=radical)
+<!-- ![Nayoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaayoungKwon&show_icons=true&theme=radical) -->
