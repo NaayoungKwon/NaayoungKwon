@@ -24,19 +24,11 @@
 </div> 
 </br>
 <div align="center">
-	<h4> 🍀 My Blog &nbsp; </h4> <a href="https://naayoungkwon.github.io"><img src="https://img.shields.io/badge/Github Pages-20C997?style=flat-square&logo=githubpages&logoColor=white" /></a> 
+	<h4> 🍀 My Blog &nbsp; </h4> <a href="https://velog.io/@kny8092"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a> 
 	<h4> ✉️ Email </h4>  naayoungkwon@gmail.com
 
 
 </br></br>
-
-<h3> Experience </h3>
-
-기간|내용|
-|:---:|:---:|
-|2022.07.18~12.16|네이버 커넥트재단 <부스트캠프 웹・모바일 7기> 웹 풀스택|
-
-</br>
 </div>
 
 
